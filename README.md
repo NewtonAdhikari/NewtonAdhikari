@@ -12,13 +12,13 @@
 
 <br/>
 
-<a href="https://github.com/newton-adhikari">
+<a href="https://github.com/NewtonAdhikari">
 <img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/newton-adhikari?tab=repositories">
+<a href="https://github.com/NewtonAdhikari?tab=repositories">
 <img src="https://img.shields.io/badge/Explore-Projects-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/newton-adhikari?tab=followers">
+<a href="https://github.com/NewtonAdhikari?tab=followers">
 <img src="https://img.shields.io/github/followers/newton-adhikari?style=for-the-badge&logo=github&label=FOLLOWERS&color=0891B2"/>
 </a>
 
@@ -182,7 +182,7 @@ mission:
 
 <div align="center">
 
-<a href="https://github.com/newton-adhikari">
+<a href="https://github.com/NewtonAdhikari">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/newton-adhikari/">
